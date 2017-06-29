@@ -1,6 +1,6 @@
 .main-content {
   display: flex;
-  flex-direction: row-reverse;
+  
 
 
 }
@@ -13,7 +13,7 @@ h1 {
 }
 .sidebar {
   background-color: rgb(122, 253, 219);
-
+  padding: 2%;
   width: 25%;
 
 }
